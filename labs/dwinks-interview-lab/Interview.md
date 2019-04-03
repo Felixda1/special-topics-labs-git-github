@@ -20,5 +20,6 @@
 - Since I'm not one, I can't tell what others think.
 5. What's your favorite color?
 6. Do you prefer regular water or diet water?
--Regular
--Fewer calories = worse taste
+- Regular
+- Fewer calories = worse taste
+
